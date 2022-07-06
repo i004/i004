@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img src="Logo.png" align="left" width=300>
+<img src="Logo.png" align="left" width=200>
 
 ```cs
 i004@github
