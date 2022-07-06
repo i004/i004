@@ -1,16 +1,15 @@
-### Hi there 👋
+```bash
+> neofetch
+```
 
-<!--
-**i004/i004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```cs
+i004@github
+-----------
+OS:        arch linux
+DE:        KDE
+Shell:     zsh
+Repos:     1 <!-- hope i won't forget to update it lol -->
+Languages: C#, JavaScript, Python, Rust, TypeScript
+Discord:   755478865454956604
+Uptime:    16 years
+```
