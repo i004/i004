@@ -7,12 +7,11 @@
 ```cs
 i004@github
 -----------
-OS:        arch linux
+OS:        arch
 DE:        KDE
 Shell:     zsh
 Repos:     2
-Languages: C#, JavaScript, Python, Rust, TypeScript
-Discord:   755478865454956604
 Uptime:    16 years
+Discord:   755478865454956604
+Languages: JavaScript, TypeScript, Python, Rust, C#, Java
 ```
-<!--- the uptime is actually my age 💀 --->
